@@ -9,3 +9,6 @@
 
 # Allow .py files
 !*.py
+
+# Allow the .gitignore file itself
+!.gitignore
